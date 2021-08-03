@@ -1,3 +1,9 @@
+/*
+ * Created by Seyed on 8/3/21, 2:09 PM
+ * Copyright (c) 2021 . All rights reserved.
+ * Last modified 8/3/21, 12:09 PM
+ */
+
 package com.Seyed.materialdesign.activity;
 
 import android.app.Dialog;

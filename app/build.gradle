@@ -1,3 +1,9 @@
+/*
+ * Created by Seyed on 8/3/21, 2:09 PM
+ * Copyright (c) 2021 . All rights reserved.
+ * Last modified 8/3/21, 1:25 PM
+ */
+
 apply plugin: 'com.android.application'
 
 android {
@@ -8,7 +14,7 @@ android {
         minSdkVersion 21
         targetSdkVersion 30
         versionCode 47
-        versionName "5.5"
+            versionName "5.5"
     }
 
     buildTypes {
